@@ -17,7 +17,7 @@
 - 📫 Contact me **shubham01legend@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sudhanshu bharti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudhanshu bharti" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sudhanshu-bharti012/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudhanshu bharti" height="30" width="40" /></a>
 <a href="https://instagram.com/sudhanshu_bharti_ig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sudhanshu_bharti_ig" height="30" width="40" /></a>
 <a href="https://www.behance.net/sudhanshu bharti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sudhanshu bharti" height="30" width="40" /></a>
 </p>
