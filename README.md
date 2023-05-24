@@ -1,6 +1,7 @@
 
 ![MasterHead](https://media.licdn.com/dms/image/C4E16AQHRaJv_M3liwA/profile-displaybackgroundimage-shrink_350_1400/0/1647533807678?e=1690416000&v=beta&t=jIuCvIAS6eiH_KrPA8gqyTR0ClIeM73f6omcGtu_sJ8)]
-![Header](./github-header-image.png)
+<!-- ![Header](./github-header-image.png) -->
+<h2 align="center">Hey! I am Sudhanshu Bharti</h3>
 <h3 align="center">A first year and Interested in Web Development</h3>
 
 
