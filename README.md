@@ -1,6 +1,6 @@
 ![MasterHead](https://media.licdn.com/dms/image/C4E16AQHRaJv_M3liwA/profile-displaybackgroundimage-shrink_350_1400/0/1647533807678?e=1690416000&v=beta&t=jIuCvIAS6eiH_KrPA8gqyTR0ClIeM73f6omcGtu_sJ8)
 <!-- ![Header](./github-header-image.png) -->
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)<h1>My name is Sudhanshu Bharti</h1>
+<h2>Hi !</h2>[](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)<h2>My name is Sudhanshu Bharti</h2>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 ======================================================
@@ -10,7 +10,7 @@ Web dev enthusiast
 
 I'm a first year student who is interested in exploring javascript libraries and learning stuffs .
 
-* 🌍  I'm based in India
+* 🌍  I'm from India
 * ✉  You can contact me at [shubham01legend@gmail.com](mailto:shubham01legend@gmail.com)
 * 🧠  I'm learning Three.js
 
