@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Sudhanshu Bharti</h1>
+
+
+
+![MasterHead](https://www.google.com/search?client=ms-android-samsung-ss&sxsrf=APwXEdcqPCFl4STCg6HiyOtOSK2CTo8VoQ:1684916283857&q=coding+guy+.gif+animated&tbm=isch&sa=X&ved=2ahUKEwjz_sykwo3_AhVT4DgGHVndB8sQ0pQJegQIJhAB&biw=458&bih=916&dpr=2.36#imgrc=55jyr3BK5duBpM)]<h1 align="center">Hi 👋, I'm Sudhanshu Bharti</h1>
 <h3 align="center">A passionate Web development Enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshu-bharti&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshu-bharti" /> </p>
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshu-bharti&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshu-bharti" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudhanshu-bharti" alt="sudhanshu-bharti" /></a> </p>
 
