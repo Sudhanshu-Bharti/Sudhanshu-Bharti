@@ -1,5 +1,5 @@
 
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.linkedin.com%2Fin%2Falexsander-franco&psig=AOvVaw1tH0sMXpBJDMQepzvmn0wP&ust=1685013482989000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDtzMHqjf8CFQAAAAAdAAAAABBV)]
+![MasterHead](https://media.licdn.com/dms/image/C4E16AQHRaJv_M3liwA/profile-displaybackgroundimage-shrink_350_1400/0/1647533807678?e=1690416000&v=beta&t=jIuCvIAS6eiH_KrPA8gqyTR0ClIeM73f6omcGtu_sJ8)]
 ![Header](./github-header-image.png)
 <h3 align="center">A first year and Interested in Web Development</h3>
 
