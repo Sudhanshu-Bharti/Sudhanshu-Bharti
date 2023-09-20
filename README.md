@@ -44,6 +44,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/Sudhanshu-Bharti/Sudhanshu-Bharti/output/snake.svg" alt="Snake animation" />
 
 ###
