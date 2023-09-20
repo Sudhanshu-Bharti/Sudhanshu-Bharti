@@ -8,7 +8,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="itsmeshubbb@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -40,6 +40,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="30" alt="threejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Sudhanshu-Bharti/Sudhanshu-Bharti/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Sudhanshu-Bharti.Sudhanshu-Bharti&"  />
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sudhanshu-Bharti&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
