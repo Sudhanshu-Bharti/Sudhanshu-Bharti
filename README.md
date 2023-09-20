@@ -46,7 +46,7 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/{{Sudhanshu-Bharti}}/{{Sudhanshu-Bharti}}/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/{Sudhanshu-Bharti}/{Sudhanshu-Bharti}/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
