@@ -9,6 +9,9 @@
     <img src="https://img.shields.io/badge/Peerlist-00A67D?style=for-the-badge&logo=peerlist&logoColor=white" alt="Peerlist" />
   </a>
 </div>
+<div align="center">
+  <img height="150" src="https://media.tenor.com/e1XS70fl9VwAAAAi/saturday.gif" alt="Welcome GIF" />
+</div>
 
 ###
 
