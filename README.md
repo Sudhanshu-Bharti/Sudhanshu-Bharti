@@ -1,84 +1,50 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/f11260c8fcb3c396e4f8f149074844a731de0c070c0cbb09f95bd03dfe42f3ea/68747470733a2f2f646c2e6f70656e73656175736572646174612e636f6d2f63616368652f6f726967696e496d6167652f66696c65732f35323761393738336332386337303936323737336137336462373937656134642e676966"  />
+  <img height="150" src="https://media.tenor.com/e1XS70fl9VwAAAAi/saturday.gif" alt="Welcome GIF" />
 </div>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sudhanshu-bharti-877889261/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="34" height="22" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://stackoverflow.com/users/21825106/sb012" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="34" height="22" alt="stackoverflow logo"  />
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
+  </a>
+  <a href="https://peerlist.io/sudhanshu" target="_blank">
+    <img src="https://img.shields.io/badge/Peerlist-00A67D?style=for-the-badge&logo=peerlist&logoColor=white" alt="Peerlist" />
   </a>
 </div>
 
-[![Peerlist](https://github-readme-badge.peerlist.io/api/sudhanshu?style=social)](https://peerlist.io/sudhanshu)
-
 ###
-
-<br clear="both">
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Sudhanshu-Bharti.Sudhanshu-Bharti&"  />
+  <img src="https://komarev.com/ghpvc/?username=Sudhanshu-Bharti&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 ###
 
-<h1 align="center">Hi 👋! I'm Sudhanshu Bharti and I'm a Frontend Developer</h1>
-  
-###
-
-<h3 align="left">Languages and Frameworks:</h3>
+<h1 align="center">Sudhanshu Bharti</h1>
+<h3 align="center">FullStack Developer | 🌐 Crafting Scalable & Beautiful Web Experiences</h3>
 
 ###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sudhanshu-Bharti&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sudhanshu-Bharti&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Sudhanshu-Bharti&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!;WWanna+build+something+awesome+together?;Code+is+poetry+%F0%9F%8E%A8" alt="Typing SVG" />
 </div>
 
-###
+
+
+### 🛠️ **Languages & Tools**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,prisma,firebase,supabase,postman,vercel,git" height="40" alt="Tech Stack" />
+</div>
+
+### 📊 **GitHub Stats**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sudhanshu-Bharti&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="250" alt="Stats Graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sudhanshu-Bharti&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false&order=2" height="150" alt="Languages Graph"  />
+  <img src="https://streak-stats.demolab.com?user=Sudhanshu-Bharti&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="220" alt="Streak Graph"  />
+</div>
