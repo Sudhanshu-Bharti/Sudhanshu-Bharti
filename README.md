@@ -43,4 +43,8 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sudhanshu-Bharti&show_icons=true&theme=radical" height="165" alt="Stats Graph"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sudhanshu-Bharti&layout=compact&theme=radical" height="165" alt="Languages Graph"/>
 <!--   <img src="https://streak-stats.demolab.com?user=Sudhanshu-Bharti&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="220" alt="Streak Graph"  /> -->
+
+</div>
+<div align="center">
+    <img src="https://wakatime.com/share/@ee4eb37d-8ece-4066-bc45-ca76f24b3761/fd57083f-33c8-4065-9f48-d663ea3e37a1.svg" width="500" height="300" alt="WakaTime Stats">
 </div>
