@@ -9,9 +9,9 @@
     <img src="https://img.shields.io/badge/Peerlist-00A67D?style=for-the-badge&logo=peerlist&logoColor=white" alt="Peerlist" />
   </a>
 </div>
-<!-- <div align="center">
+<div align="center">
   <img height="150" src="https://media.tenor.com/e1XS70fl9VwAAAAi/saturday.gif" alt="Welcome GIF" />
-</div> -->
+</div>
 
 ###
 
@@ -26,9 +26,9 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!;WWanna+build+something+awesome+together?;Code+is+poetry+%F0%9F%8E%A8" alt="Typing SVG" />
-</div>
+</div>-->
 
 
 
