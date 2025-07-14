@@ -9,9 +9,9 @@
     <img src="https://img.shields.io/badge/Peerlist-00A67D?style=for-the-badge&logo=peerlist&logoColor=white" alt="Peerlist" />
   </a>
 </div>
-<div align="center">
+<!-- <div align="center">
   <img height="150" src="https://media.tenor.com/e1XS70fl9VwAAAAi/saturday.gif" alt="Welcome GIF" />
-</div>
+</div> -->
 
 ###
 
@@ -22,7 +22,7 @@
 ###
 
 <h1 align="center">Sudhanshu Bharti</h1>
-<h3 align="center">FullStack Developer | 🌐 Crafting Scalable & Beautiful Web Experiences</h3>
+<h3 align="center">FullStack Developer | Crafting Scalable & Beautiful Web Experiences</h3>
 
 ###
 
